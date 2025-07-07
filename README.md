@@ -1,3 +1,5 @@
+[한국어 버전](./README.ko.md)
+
 <div align="center">
 <img src="http://i.imgur.com/kYYCXtC.png" alt="Open Source Society logo"/>
 <h3>Open Source Society University</h3>

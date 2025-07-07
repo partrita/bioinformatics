@@ -1,3 +1,5 @@
+[한국어 버전](./README.ko.md)
+
 <div align="center">
 <img src="http://i.imgur.com/kYYCXtC.png" alt="오픈 소스 소사이어티 로고"/>
 <h3>오픈 소스 소사이어티 대학교</h3>
@@ -5,7 +7,7 @@
   :microscope: <strong>생물정보학</strong> 무료 자체 학습 교육 과정!
 </p>
 <p>
-  <a href="https://github.com/open-source-society/bioinformatics">
+  <a href="https://github.com/partrita/bioinformatics">
 	<img alt="오픈 소스 소사이어티 대학교 - 생물정보학" src="https://img.shields.io/badge/OSSU-bioinformatics-blue.svg">
   </a>
 </p>
@@ -16,7 +18,7 @@
 </p>
 </div>
 
-참고: 이 커리큘럼은 현재 활발하게 개발되고 있지 않으며 오래된 정보일 수 있습니다. 자세한 내용은 [여기](./ARCHIVED.md)에서 확인하세요.
+참고: 이 커리큘럼은 현재 활발하게 개발되고 있지 않으며 오래된 정보일 수 있습니다. 자세한 내용은 [여기](./ARCHIVED.ko.md)에서 확인하세요.
 
 ## 목차
 
@@ -184,10 +186,10 @@ COMP 5312 | [딥 러닝](https://www.udacity.com/course/deep-learning--ud730) | 
 
 과정을 마친 후에는 과정에서 습득한 지식을 사용하여 해결할 수 있는 **실제 문제**에 대해 생각해야 합니다. 큰 프로젝트를 만들 필요는 없지만 지식을 **검증**하고 **통합**하고, 배운 개념으로 유용한 것을 만들 수 있다는 것을 세상에 보여주기 위해 무언가를 만들어야 합니다.
 
-  리포지토리의 README에 OSSU-생물정보학 배지를 추가하십시오! [![오픈 소스 소사이어티 대학교 - 생물정보학](https://img.shields.io/badge/OSSU-bioinformatics-blue.svg)](https://github.com/open-source-society/bioinformatics)
+  리포지토리의 README에 OSSU-생물정보학 배지를 추가하십시오! [![오픈 소스 소사이어티 대학교 - 생물정보학](https://img.shields.io/badge/OSSU-bioinformatics-blue.svg)](https://github.com/partrita/bioinformatics)
 
-  - 마크다운: `[![오픈 소스 소사이어티 대학교 - 생물정보학](https://img.shields.io/badge/OSSU-bioinformatics-blue.svg)](https://github.com/open-source-society/bioinformatics)`
-  - HTML: `<a href="https://github.com/open-source-society/bioinformatics"><img alt="오픈 소스 소사이어티 대학교 - 생물정보학" src="https://img.shields.io/badge/OSSU-bioinformatics-blue.svg"></a>`
+  - 마크다운: `[![오픈 소스 소사이어티 대학교 - 생물정보학](https://img.shields.io/badge/OSSU-bioinformatics-blue.svg)](https://github.com/partrita/bioinformatics)`
+  - HTML: `<a href="https://github.com/partrita/bioinformatics"><img alt="오픈 소스 소사이어티 대학교 - 생물정보학" src="https://img.shields.io/badge/OSSU-bioinformatics-blue.svg"></a>`
 
 **이 프로젝트는 혼자 또는 다른 학생들과 함께 만들 수 있습니다!**
 
@@ -244,7 +246,7 @@ Git을 사용하여 작업을 버전 관리하는 방법을 이해하는 것은 
 이 프로젝트를 [포크](https://help.github.com/articles/fork-a-repo/)하고 발견한 실수를 수정하기 위해 [풀 리퀘스트](https://help.github.com/articles/using-pull-requests/)를 보낼 수도 있습니다.
 
 TODO:
-새로운 자료를 제안하려면 해당 자료를 [추가 자료](https://github.com/open-source-society/bioinformatics/tree/master/extras) 섹션에 추가하는 풀 리퀘스트를 보내십시오.
+새로운 자료를 제안하려면 해당 자료를 [추가 자료](https://github.com/partrita/bioinformatics/tree/master/extras) 섹션에 추가하는 풀 리퀘스트를 보내십시오.
 
 **추가 자료** 섹션은 우리 모두가 흥미로운 추가 기사, 책, 과정 및 전문 과정을 제출하여 커리큘럼을 *가능한 한 불변하고 간결하게* 유지할 수 있는 곳입니다.
 
@@ -260,7 +262,7 @@ Discord 서버가 있습니다! 다른 OSSU 학생들과 대화하기 위한 첫
 
 [뉴스레터](https://tinyletter.com/OpenSourceSocietyUniversity)를 구독하십시오.
 
-[GitHub 문제](https://github.com/open-source-society/bioinformatics/issues)를 통해 상호 작용할 수도 있습니다.
+[GitHub 문제](https://github.com/partrita/bioinformatics/issues)를 통해 알려주세요.
 
 [Linkedin](https://www.linkedin.com/school/11272443/)에 **오픈 소스 소사이어티 대학교**를 추가하고 [Facebook](https://www.facebook.com/groups/opensourcesocietyu/) 그룹에 가입하십시오!
 
@@ -268,6 +270,6 @@ Discord 서버가 있습니다! 다른 OSSU 학생들과 대화하기 위한 첫
 
 * **커리큘럼 설립자**: [Enes Kemal Ergin](https://github.com/eneskemalergin)
 * **커리큘럼 관리자**: [Enes Kemal Ergin](https://github.com/eneskemalergin)
-* **기여자**: [기여자](https://github.com/open-source-society/bioinformatics/graphs/contributors)
+* **기여자**: [기여자](https://github.com/partrita/bioinformatics/graphs/contributors)
 
 ## 참고 자료
