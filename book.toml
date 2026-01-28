@@ -1,0 +1,9 @@
+[book]
+authors = ["Enes Kemal Ergin", "OSSU Contributors"]
+language = "ko"
+src = "src"
+title = "생물정보학 - 오픈 소스 소사이어티 대학교"
+
+[output.html]
+git-repository-url = "https://github.com/partrita/bioinformatics"
+edit-url-template = "https://github.com/partrita/bioinformatics/edit/main/{path}"
